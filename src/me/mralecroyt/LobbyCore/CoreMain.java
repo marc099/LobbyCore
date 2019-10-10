@@ -188,7 +188,7 @@ public class CoreMain extends JavaPlugin implements Listener {
     }
 
     private void loadComandos() {
-        this.getCommand("memoria").setExecutor(new MemoriaCMD()); // es para que veas
+        this.getCommand("memoria").setExecutor(new MemoriaCMD());
         this.getCommand("donacion").setExecutor(new DonacionCMD());
     }
 
