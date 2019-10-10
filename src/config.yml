@@ -1,0 +1,128 @@
+#  .-.    .----. .----. .----..-.  .-..---.  .----. .----. .----.
+#  | |   /  {}  \| {}  }| {}  }\ \/ //  ___}/  {}  \| {}  }| {_
+#  | `--.\      /| {}  }| {}  } }  { \     }\      /| .-. \| {__
+#  `----' `----' `----' `----'  `--'  `---'  `----' `-' `-'`----'
+#
+# Author: MrAlecroYT
+# Version: 1.0.3
+
+#########################
+####  GWorldOptions  ####
+#########################
+AntiJoinMessage:
+  Enable: true
+SpawnBorder:
+  radius: 450
+  x: 165.8608913256512
+  y: 72.21797442091841
+  z: -1527.332881750044
+  yaw: 0.23953247
+  pitch: 11.394183
+  world: Lobby
+  minY: 0
+  maxY: 256
+
+######################
+### GServerOptions ###
+######################
+MVdWPlaceholderAPI: false
+PlaceholderAPI: true
+VoidSpawn: true
+Join-Items: true
+CustomJoins: true
+
+
+######################
+#### TitleOptions ####
+######################
+Tablist:
+  Enable: true
+  Time-Update: 2
+  header: "&fEstas jugando en &a&lGROY&f&lLAND NETWORK&f"
+  footer: "&fCompra tu rango en &atienda.groyland.net&f"
+
+EnableSendTitle: true
+EnableJoinTitle: true
+JoinTitle: '&a&lGROY&f&lLAND'
+SubTitle: '&f¡Compatible desde 1.8 - 1.13!'
+
+#######################
+###  GPlayerOptions  ###
+#######################
+
+JoinMessage:
+  - ''
+  - ''
+  - ''
+  - ''
+  - '&8&m+---------------------------------------------------+'
+  - ''
+  - '                       &a&lGROY&f&lLAND NETWORK'
+  - ''
+  - '         &fiBienvenido &a%player% &fal &aServidor Lobby #1'
+  - ''
+  - '&8    » &c&l¡COMPRA! &f¡Tu rango en &atienda.groyland.net &f'
+  - '&8       &fpara &aobtener &fmas beneficios y disfrutar mas!'
+  - ''
+  - '&8&m+---------------------------------------------------+'
+
+Donaciones:
+  Uso: ''
+  No-Perm: "&cComando desconocido."
+  MensajeDonacion:
+    - "&f"
+    - '                   &a&lGROY&f&lLAND NETWORK'
+    - "&f"
+    - "         &8&l» &a%player% &fha donado al servidor. &8&l«"
+    - "&f"
+    - "   &a&lTIP: &fTu tambien puedes donar en &atienda.groyland.net&7"
+    - "&f"
+
+#######################
+####  GWorldGuard  ####
+#######################
+
+#El mundo con minusculas y mayusculas
+
+Mundo:
+  - "Lobby"
+Protecciones:
+  LobbyOptions:
+    Hambre: false
+    Max-Vida: 20
+    MobSpawn: false
+    Fuego: false
+    AntiTNT: true
+    Lava: false
+    Lava-Correr: false
+    Agua: true
+    Agua-Correr: true
+    ArmorProtect: true
+  PlayersOptions:
+    FallDamage: false
+    PvP: false
+    NoMobDamage: false
+    Construir: false
+    Destruir: false
+    ItemDrop: false
+    ItemPickUp: false
+    UseEnderP: false
+    Dormir: false
+    Usar: false
+
+######################
+### GServerMessage ###
+######################
+Mensajes:
+  Server-Lleno: '&2&lSERVIDOR LLENO! &fSi quieres entrar compra rango en &atienda.groyland.net&f.'
+  Whitelist: '&2&lLISTA BLANCA! &f¡No puedes entrar a este servidor!'
+  No-Permisisos: '&cNo tienes permisos para ejecutar esta acción.'
+
+##########################
+### GServerPermissions ###
+##########################
+DonacionPerm: 'Donacionvip.permiso'
+AntiSpamBypass: 'Aspambypass.permiso'
+Memoria: 'Memoria.permiso'
+
+

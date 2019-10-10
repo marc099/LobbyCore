@@ -1,0 +1,16 @@
+#   .---. .-. .-. .----..---.  .----. .-.   .-.   .-. .----. .-..-. .-..-.   .-..----. .----. .----.  .--.   .---. .----. .----.
+#  /  ___}| { } |{ {__ {_   _}/  {}  \|  `.'  |.-.| |/  {}  \| ||  `| ||  `.'  || {_  { {__  { {__   / {} \ /   __}| {_  { {__
+#  \     }| {_} |.-._} } | |  \      /| |\ /| || {} |\      /| || |\  || |\ /| || {__ .-._} }.-._} }/  /\  \\  {_ }| {__ .-._} }
+#   `---' `-----'`----'  `-'   `----' `-' ` `-'`----' `----' `-'`-' `-'`-' ` `-'`----'`----' `----' `-'  `-' `---' `----'`----'
+# Author: MrAlecroYT
+# Version: 1.0.3
+
+owner:
+  permission: join.owner
+  join-message: '&9&lOWNER &f%player% &aha entrado al lobby.'
+manager:
+  permission: join.manager
+  join-message: '&b&lMANAGER &f%player% &aha entrado al lobby.'
+devmanager:
+  permission: join.devmanager
+  join-message: '&b&lDEV &f%player% &aha entrado al lobby.'

@@ -1,0 +1,48 @@
+
+#   .---.  .----. .---.  .----. .----. .----..----.  .----.   .--.  .----. .----.
+#  /   __}{ {__  /  ___}/  {}  \| {}  }| {_  | {}  }/  {}  \ / {} \ | {}  }| {}  \
+#  \  {_ }.-._} }\     }\      /| .-. \| {__ | {}  }\      //  /\  \| .-. \|     /
+#   `---' `----'  `---'  `----' `-' `-'`----'`----'  `----' `-'  `-'`-' `-'`----'
+#
+# Author: MrAlecroYT
+# Version: 1.0.3
+
+#####################
+### GScoreOptions ###
+#####################
+use-scoreboard: true
+Update-delay-time: 3
+
+
+####################
+### GScoreTitile ###
+####################
+
+Title: '&a&lGROY&f&lLAND'
+
+###################
+### GScoreBoard ###
+###################
+
+# SOLO 16 LINEAS
+
+scoreboard-lines:
+  - '%empty%'
+  - '&fUsuario: &a%player%'
+  - '&fPing: &a%player_ping%'
+  - '%empty%'
+  - '&fNovedades:'
+  - '&a¡Pronto EggWars!'
+  - '%empty%'
+  - '&fConectados:'
+  - '&fNetWork: &a%bungee_total%'
+  - '&fLobby: &a#1'
+  - '%empty%'
+  - '&amc.groyland.net'
+
+
+
+#Variables:
+#  %player% - Enseñar nombre.
+#  %group% - No creo que sea compatible con PP.
+#  %empty% - Espacio.

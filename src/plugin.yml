@@ -1,0 +1,15 @@
+name: LobbyCore
+main: me.mralecroyt.LobbyCore.CoreMain
+version: 1.0.3
+authors: [MrAlecroYT]
+description: Plugin for GroyLandNetWork
+softpend: [PlaceholderAPI, Vault]
+commands:
+  setspawn:
+    description: setea el Spawn
+  memoria:
+    description: Memoria
+  lobbyreload:
+    description: A reload
+  donacion:
+    description: Mensaje donacion

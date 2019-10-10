@@ -1,0 +1,45 @@
+#   .---. .-. .-. .----..---.  .----. .-.   .-.   .-. .----. .-..-. .-..-. .---. .----..-.   .-. .----.
+#  /  ___}| { } |{ {__ {_   _}/  {}  \|  `.'  |.-.| |/  {}  \| ||  `| || |{_   _}| {_  |  `.'  |{ {__
+#  \     }| {_} |.-._} } | |  \      /| |\ /| || {} |\      /| || |\  || |  | |  | {__ | |\ /| |.-._} }
+#   `---' `-----'`----'  `-'   `----' `-' ` `-'`----' `----' `-'`-' `-'`-'  `-'  `----'`-' ` `-'`----'
+#
+# Author: MrAlecroYT
+# Version: 1.0.3
+
+#############
+### ITEMS ###
+#############
+
+selector:
+  ID: 345
+  Data-value: 0
+  Allow-drop: false
+  Deny-move: true
+  cooldown-seconds: 2
+  Name: '&fSelector de Modalidades &a(Click Derecho)'
+  Command: 'selector'
+  Lore: []
+  Slot: 1
+opciones:
+  ID: 340
+  Data-value: 0
+  Allow-drop: false
+  Deny-move: true
+  cooldown-seconds: 2
+  Name: '&fOpciones de Usuario &a(Click Derecho)'
+  Command: 'preferencias'
+  Lore:
+    - '&fAbre &feste menù para &aadministrar'
+    - '&ftus preferencias.'
+  Slot: 2
+lobbies:
+  ID: 399
+  Data-value: 0
+  Allow-drop: false
+  Deny-move: true
+  cooldown-seconds: 2
+  Name: '&fSelector de Lobbies &a(Click Derecho)'
+  Command: 'lobbies'
+  Lore: []
+  Slot: 9
+
