@@ -38,13 +38,13 @@ CustomJoins: true
 Tablist:
   Enable: true
   Time-Update: 2
-  header: "&fEstas jugando en &a&lGROY&f&lLAND NETWORK&f"
-  footer: "&fCompra tu rango en &atienda.groyland.net&f"
+  header: "&fEstas jugando en &b&lLunaticMC &f&lNetwork"
+  footer: "&fCompra tu rango en &btienda.lunaticmc.net&f"
 
 EnableSendTitle: true
 EnableJoinTitle: true
-JoinTitle: '&a&lGROY&f&lLAND'
-SubTitle: '&f¡Compatible desde 1.8 - 1.13!'
+JoinTitle: '&b&lLunaticMC &f&lNetwork'
+SubTitle: '&f¡Compatible desde 1.8 - 1.19!'
 
 #######################
 ###  GPlayerOptions  ###
@@ -57,11 +57,11 @@ JoinMessage:
   - ''
   - '&8&m+---------------------------------------------------+'
   - ''
-  - '                       &a&lGROY&f&lLAND NETWORK'
+  - '                       &b&lLunaticMC &f&lNetwork'
   - ''
   - '         &fiBienvenido &a%player% &fal &aServidor Lobby #1'
   - ''
-  - '&8    » &c&l¡COMPRA! &f¡Tu rango en &atienda.groyland.net &f'
+  - '&8    » &c&l¡COMPRA! &f¡Tu rango en &btienda.lunaticmc.net &f'
   - '&8       &fpara &aobtener &fmas beneficios y disfrutar mas!'
   - ''
   - '&8&m+---------------------------------------------------+'
@@ -71,11 +71,11 @@ Donaciones:
   No-Perm: "&cComando desconocido."
   MensajeDonacion:
     - "&f"
-    - '                   &a&lGROY&f&lLAND NETWORK'
+    - '                   &b&lLunaticMC &f&lNetwork'
     - "&f"
     - "         &8&l» &a%player% &fha donado al servidor. &8&l«"
     - "&f"
-    - "   &a&lTIP: &fTu tambien puedes donar en &atienda.groyland.net&7"
+    - "   &a&lTIP: &fTu tambien puedes donar en &btienda.lunaticmc.net&7"
     - "&f"
 
 #######################
@@ -114,7 +114,7 @@ Protecciones:
 ### GServerMessage ###
 ######################
 Mensajes:
-  Server-Lleno: '&2&lSERVIDOR LLENO! &fSi quieres entrar compra rango en &atienda.groyland.net&f.'
+  Server-Lleno: '&2&lSERVIDOR LLENO! &fSi quieres entrar compra rango en &btienda.lunaticmc.net&f.'
   Whitelist: '&2&lLISTA BLANCA! &f¡No puedes entrar a este servidor!'
   No-Permisisos: '&cNo tienes permisos para ejecutar esta acción.'
 
