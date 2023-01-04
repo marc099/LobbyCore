@@ -119,7 +119,7 @@ public class CoreMain extends JavaPlugin implements Listener {
         }
         cs.sendMessage("Cargando plugin....");
         cs.sendMessage("Plugin completado " + this.getDescription().getVersion());
-        cs.sendMessage("[LobbyCore] Plugin by MrAlecroYT");
+        cs.sendMessage("[LobbyCore] Plugin by MrAlecroYT | Forked by SMarc");
         cs.sendMessage("#######################################");
     }
 
