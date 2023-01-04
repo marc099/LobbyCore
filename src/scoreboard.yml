@@ -4,24 +4,24 @@
 #  \  {_ }.-._} }\     }\      /| .-. \| {__ | {}  }\      //  /\  \| .-. \|     /
 #   `---' `----'  `---'  `----' `-' `-'`----'`----'  `----' `-'  `-'`-' `-'`----'
 #
-# Author: MrAlecroYT
-# Version: 1.0.3
+# Author: MrAlecroYT & SMarc
+# Version: 1.0.4
 
 #####################
-### GScoreOptions ###
+### LScoreOptions ###
 #####################
 use-scoreboard: true
 Update-delay-time: 3
 
 
 ####################
-### GScoreTitile ###
+### LScoreTitile ###
 ####################
 
 Title: '&b&lLunaticMC'
 
 ###################
-### GScoreBoard ###
+### LScoreBoard ###
 ###################
 
 # SOLO 16 LINEAS
@@ -38,7 +38,7 @@ scoreboard-lines:
   - '&fNetWork: &b%bungee_total%'
   - '&fLobby: &b#1'
   - '%empty%'
-  - '&amc.lunaticmc.net'
+  - '&bmc.lunaticmc.net'
 
 
 
