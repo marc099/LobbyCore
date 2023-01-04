@@ -1,6 +1,6 @@
 name: LobbyCore
 main: me.mralecroyt.LobbyCore.CoreMain
-version: 1.0.3
+version: 1.0.4
 authors: [MrAlecroYT, SMarc]
 description: Plugin for LunaticMC Network
 softpend: [PlaceholderAPI, Vault]
