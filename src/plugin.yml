@@ -1,8 +1,8 @@
 name: LobbyCore
 main: me.mralecroyt.LobbyCore.CoreMain
 version: 1.0.3
-authors: [MrAlecroYT]
-description: Plugin for GroyLandNetWork
+authors: [MrAlecroYT, SMarc]
+description: Plugin for LunaticMC Network
 softpend: [PlaceholderAPI, Vault]
 commands:
   setspawn:
