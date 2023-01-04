@@ -18,7 +18,7 @@ Update-delay-time: 3
 ### GScoreTitile ###
 ####################
 
-Title: '&a&lGROY&f&lLAND'
+Title: '&b&lLunaticMC'
 
 ###################
 ### GScoreBoard ###
@@ -28,17 +28,17 @@ Title: '&a&lGROY&f&lLAND'
 
 scoreboard-lines:
   - '%empty%'
-  - '&fUsuario: &a%player%'
-  - '&fPing: &a%player_ping%'
+  - '&fUsuario: &b%player%'
+  - '&fPing: &b%player_ping%'
   - '%empty%'
   - '&fNovedades:'
-  - '&a¡Pronto EggWars!'
+  - '&b¡Pronto Practice!'
   - '%empty%'
   - '&fConectados:'
-  - '&fNetWork: &a%bungee_total%'
-  - '&fLobby: &a#1'
+  - '&fNetWork: &b%bungee_total%'
+  - '&fLobby: &b#1'
   - '%empty%'
-  - '&amc.groyland.net'
+  - '&amc.lunaticmc.net'
 
 
 
